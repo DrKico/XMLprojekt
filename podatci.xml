@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<films>
+  <film>
+    <naziv>Tenet</naziv>
+    <zanr>Science fiction</zanr>
+    <godina>2020</godina>
+  </film>
+  <film>
+    <naziv>The Irishman</naziv>
+    <zanr>Kriminalistički</zanr>
+    <godina>2019</godina>
+  </film>
+  <film>
+    <naziv>Parasite</naziv>
+    <zanr>Drama</zanr>
+    <godina>2019</godina>
+  </film>
+  <film>
+    <naziv>Joker</naziv>
+    <zanr>Drama</zanr>
+    <godina>2019</godina>
+  </film>
+  <film>
+    <naziv>Avengers: Endgame</naziv>
+    <zanr>Akcija</zanr>
+    <godina>2019</godina>
+  </film>
+  <film>
+    <naziv>La La Land</naziv>
+    <zanr>Mjuzikl</zanr>
+    <godina>2016</godina>
+  </film>
+  <film>
+    <naziv>Interstellar</naziv>
+    <zanr>Science fiction</zanr>
+    <godina>2014</godina>
+  </film>
+  <film>
+    <naziv>The Dark Knight</naziv>
+    <zanr>Akcija</zanr>
+    <godina>2008</godina>
+  </film>
+  <film>
+    <naziv>Pulp Fiction</naziv>
+    <zanr>Kriminalistički</zanr>
+    <godina>1994</godina>
+  </film>
+  <film>
+    <naziv>The Shawshank Redemption</naziv>
+    <zanr>Drama</zanr>
+    <godina>1994</godina>
+  </film>
+  <film>
+    <naziv>The Godfather</naziv>
+    <zanr>Kriminalistički</zanr>
+    <godina>1972</godina>
+  </film>
+  <film>
+    <naziv>Citizen Kane</naziv>
+    <zanr>Drama</zanr>
+    <godina>1941</godina>
+  </film>
+  <film>
+    <naziv>Casablanca</naziv>
+    <zanr>Ratni</zanr>
+    <godina>1942</godina>
+  </film>
+  <film>
+    <naziv>Gone with the Wind</naziv>
+    <zanr>Romantični</zanr>
+    <godina>1939</godina>
+  </film>
+  <film>
+    <naziv>The Wizard of Oz</naziv>
+    <zanr>Avantura</zanr>
+    <godina>1939</godina>
+  </film>
+</films>

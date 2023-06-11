@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pretraga filma</title>
+</head>
+<body>
+  <h1>Pretraga filma</h1>
+  <form action="stranica.php" method="POST">
+    <label for="naziv">Unesite naziv filma:</label>
+    <input type="text" id="naziv" name="naziv" required>
+    <button type="submit">Pretrazi</button>
+  </form>
+
+  <h1>Unos novog filma</h1>
+  <form action="stranica.php" method="POST">
+    <label for="unos-naziv">Naziv filma:</label>
+    <input type="text" id="unos-naziv" name="naziv" required><br>
+    <label for="unos-zanr">Zanr filma:</label>
+    <input type="text" id="unos-zanr" name="zanr" required><br>
+    <label for="unos-godina">Godina izdanja:</label>
+    <input type="number" id="unos-godina" name="godina" required><br>
+    <button type="submit">Dodaj</button>
+  </form>
+</body>
+</html>
